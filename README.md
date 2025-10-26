@@ -22,7 +22,7 @@ Section–B: Programming Tasks (MID-II Assignments)
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/anukumari8402-star/CSA-MDM-121-Computational-Statistics/GitHub-
+git clone https://github.com/anukumari8402-star/CSA-MDM-121-Computational-Statistics
 
 Navigate into the folder:
 
