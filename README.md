@@ -20,7 +20,7 @@ Section–B: Programming Tasks (MID-II Assignments)
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/SahujiAnuj/CSA-MDM-121-SectionB-Assignments.git
+git clone https://github.com/anukumari8402-star/GitHub-
 
 Navigate into the folder:
 
